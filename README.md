@@ -1,3 +1,5 @@
+
+<span align="left">
 ```js
 import Developer from 'Gabriel Wenchenck';
 
@@ -12,6 +14,7 @@ class Skills extends Developer {
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
 ```
+</span>
 
 <div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%"/>
