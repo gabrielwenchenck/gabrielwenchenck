@@ -1,6 +1,7 @@
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 30%"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%"/>
 
+## Eu sou o Gabriel Wenchenck
 
 ```js
 import Developer from 'Gabriel Wenchenck';
