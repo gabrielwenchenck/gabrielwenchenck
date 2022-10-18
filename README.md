@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
-
-### <div align="center">Eu sou o Gabriel Wenchenck</div>  
+### <div align="left">Eu sou o Gabriel Wenchenck</div>  
 
 
 ```js
