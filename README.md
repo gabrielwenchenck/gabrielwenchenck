@@ -1,8 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<div align="left">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />
 </div>
   
-### <div align="center">Eu sou o Gabriel Wenchenck</div>  
+### <div align="center"> ##Eu sou o Gabriel Wenchenck</div>  
 
 
 ```js
@@ -21,12 +21,7 @@ class Skills extends Developer {
   ```
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabrielwenchenck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielwenchenck" height="30" width="40" /></a>
-</p>
-
-## Languages and Tools  
+### Linguagens e Ferramentas
 <div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
