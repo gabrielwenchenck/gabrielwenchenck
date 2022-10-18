@@ -1,6 +1,7 @@
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 40%"/>
-<br>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%"/>
+
+---
 
 ## Eu sou o Gabriel Wenchenck
 
