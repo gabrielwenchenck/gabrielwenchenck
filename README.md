@@ -16,7 +16,7 @@ class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
-  ```
+```
 
 
 ### Linguagens e Ferramentas
