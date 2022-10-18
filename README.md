@@ -1,10 +1,4 @@
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%"/>
-</div>
-
-
 ```js
-
 import Developer from 'Gabriel Wenchenck';
 
 class AboutMe extends Developer {
@@ -17,8 +11,14 @@ class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
-
 ```
+
+<div align="left">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%"/>
+</div>
+
+
+
 
 
 ### Linguagens e Ferramentas
