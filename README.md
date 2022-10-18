@@ -1,4 +1,9 @@
-<h2 align="left">Oi 👋, eu sou o Gabriel Wenchenck</h2>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Eu sou o Gabriel Wenchenck</div>  
 
 
 ```js
