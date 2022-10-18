@@ -3,7 +3,7 @@
 
 ## Eu sou o Gabriel Wenchenck
 
-<span justify-content="right">
+<span justify-content="right" widht="100">
   
   ```js
 import Developer from 'Gabriel Wenchenck';
