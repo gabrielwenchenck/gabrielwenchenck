@@ -23,8 +23,8 @@ class Skills extends Developer {
 
 
 ### Estatísticas do GitHub:
-<div width="50px"> ![](https://github-readme-stats.vercel.app/api?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true) </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true){width=50%}
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact){width=50%}
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielwenchenck) 
