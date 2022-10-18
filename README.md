@@ -4,8 +4,8 @@
   
 ### <div align="left">Eu sou o Gabriel Wenchenck</div>  
 
-<div align="left">
-```js
+
+<div align="left">```js
 import Developer from 'Gabriel Wenchenck';
 
 class AboutMe extends Developer {
