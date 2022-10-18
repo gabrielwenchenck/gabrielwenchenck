@@ -3,7 +3,7 @@
 
 ## Eu sou o Gabriel Wenchenck
 
-<span justify-content="right" widht="50%">
+<div justify-content="right" widht="50%">
   
   ```js
 import Developer from 'Gabriel Wenchenck';
@@ -19,7 +19,7 @@ class Skills extends Developer {
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
 ``` 
-</span>
+</div>
 
 
 
