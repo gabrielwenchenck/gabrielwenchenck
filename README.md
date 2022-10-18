@@ -4,6 +4,7 @@
 ## Eu sou o Gabriel Wenchenck
 
 <div style="overflow-y:scroll;" widht="100px">
+<p>
   
   ```js
 import Developer from 'Gabriel Wenchenck';
@@ -19,6 +20,7 @@ class Skills extends Developer {
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
 ``` 
+</p>
 </div>
 
 
