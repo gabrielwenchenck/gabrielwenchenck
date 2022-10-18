@@ -3,8 +3,7 @@
 
 ## Eu sou o Gabriel Wenchenck
 
-<span justify-content="right">
-```js
+<span justify-content="right">```js
 import Developer from 'Gabriel Wenchenck';
 
 class AboutMe extends Developer {
@@ -17,8 +16,8 @@ class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
-```
-</span>
+```</span>
+
 
 
 
