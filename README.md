@@ -1,5 +1,6 @@
 <h2 align="center">Oi 👋, eu sou o Gabriel Wenchenck</h2>
-<p maxwidth ="100">
+
+<p align="left">
 ```js
 import Developer from 'Gabriel Wenchenck';
 
