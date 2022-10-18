@@ -1,10 +1,10 @@
-
+<div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />
-
+</div>
   
 ### <div align="left">Eu sou o Gabriel Wenchenck</div>  
 
-
+<div align="left">
 ```js
 import Developer from 'Gabriel Wenchenck';
 
@@ -18,7 +18,8 @@ class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
-```
+  ```
+</div> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
