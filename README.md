@@ -1,4 +1,4 @@
-<h2 align="center">Oi 👋, eu sou o Gabriel Wenchenck</h2>
+<h2 align="left">Oi 👋, eu sou o Gabriel Wenchenck</h2>
 
 
 ```js
