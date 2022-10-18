@@ -6,7 +6,6 @@
 
 
 ```js
-<div align="left">
 import Developer from 'Gabriel Wenchenck';
 
 class AboutMe extends Developer {
@@ -19,8 +18,8 @@ class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
-</div> 
   ```
+  :---  
 
 
 <h3 align="left">Connect with me:</h3>
