@@ -27,7 +27,7 @@ class Skills extends Developer {
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align = "center"/>
 </p>
 
 ### Contato
