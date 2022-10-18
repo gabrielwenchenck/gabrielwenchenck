@@ -2,8 +2,7 @@
 ## Olá, eu sou o Gabriel Wenchenck
 
 
-  
-  ```js
+```js
 import Developer from 'Gabriel Wenchenck';
 
 class AboutMe extends Developer {
@@ -24,8 +23,7 @@ class Skills extends Developer {
 
 
 ### Estatísticas do GitHub:
-<div width="50"> ![](https://github-readme-stats.vercel.app/api?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-</div>
+<div width="50px"> ![](https://github-readme-stats.vercel.app/api?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true) </div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwenchenck&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Contato
