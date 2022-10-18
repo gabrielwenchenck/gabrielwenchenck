@@ -2,8 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />
 </div>
   
-### <div align="center"> ##Eu sou o Gabriel Wenchenck</div>  
-
 
 ```js
 import Developer from 'Gabriel Wenchenck';
