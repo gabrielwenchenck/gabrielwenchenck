@@ -1,3 +1,7 @@
+<div align="left">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 30%"/>
+</div>
+
 
 ```js
 import Developer from 'Gabriel Wenchenck';
@@ -13,12 +17,6 @@ class Skills extends Developer {
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
 ```
-
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%"/>
-</div>
-
-
 
 
 
