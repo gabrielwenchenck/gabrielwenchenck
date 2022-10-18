@@ -1,6 +1,5 @@
-<div align="left">
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 30%"/>
-</div>
 
 
 ```js
