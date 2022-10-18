@@ -1,6 +1,6 @@
 <h2 align="center">Oi 👋, eu sou o Gabriel Wenchenck</h2>
 
-<p align="left">
+
 ```js
 import Developer from 'Gabriel Wenchenck';
 
@@ -15,7 +15,6 @@ class Skills extends Developer {
   frameworksAndLibs = ['Express', 'Knex', 'MySQL', 'AWS', 'Jest', 'Others'];
 }
 ```
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
